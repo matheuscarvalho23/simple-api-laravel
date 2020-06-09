@@ -10,6 +10,8 @@ Now run these commands:
 
 "php artisan migrate:fresh" if you already have the database created, run this command to delete all tables and run migrations again;
 
+Remember to configure your database in the .env file
+
 # Development strategy
 
 The Laravel framework was used for development.
